@@ -8,3 +8,4 @@ We have the following four versions are avaialble in this reporsitory, right now
 - [Japanese (ja_JP)](https://github.com/rustlang-tokyo/RustFestGlobal2020-CFP/blob/master/ja_jp.md)
 - [Simplified Chinese (zh_CN)](https://github.com/rustlang-tokyo/RustFestGlobal2020-CFP/blob/master/zh_cn.md)
 - [Traditional Chinese (zh_TW)](https://github.com/rustlang-tokyo/RustFestGlobal2020-CFP/blob/master/zh_tw.md)
+- [Korean (kr_KR](https://github.com/rustlang-tokyo/RustFestGlobal2020-CFP/blob/master/kr_kr.md)
